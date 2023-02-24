@@ -21,9 +21,7 @@
     flex-direction: column;
     gap: 30px;
 }
-h1{
-    color: blue;
-}
+
 p{
     font-size: 20px;
 }
